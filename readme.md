@@ -2,8 +2,9 @@ Decentralized Star Notary Service
 
 DAPP implementation that allows a user to create a Star (ERC 721) and add it to a wallet. This contract was deployed in the Sepolia test net.
 
-Functions present in the Smart Contract and Front-end: look up stars and find their name by their ID nr.
-Functions presnet in the Smart Contract but not present in the Front-end (YET): exchange of stars between wallets and buying/selling stars.
+Functions present in the Smart Contract and Front-end: Look up stars and find their name by their ID nr.
+
+Functions present in the Smart Contract but not present in the Front-end (YET): Exchange of stars between wallets and buying/selling stars.
 
 TO NOTE:
 
